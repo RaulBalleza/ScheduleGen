@@ -1,0 +1,40 @@
+[iti 4-1]
+
+LUNES:
+Álgebra lineal,Eduardo Patricio González Nuño,iti-07777,A208(A8)
+Introducción a las bases de datos,Jorge Omar Jasso Luna,iti-07775,A211(LITI3)
+Habilidades del pensamiento,Myriam Ornelas Llerena,iti-07773,A208(A8)
+Introducción a la programación orientada a objetos,Karla Esmeralda Vázquez Ortiz,iti-07774,A213(LITI4)
+
+
+MARTES:
+Álgebra lineal,Eduardo Patricio González Nuño,iti-07777,A208(A8)
+Introducción a las bases de datos,Jorge Omar Jasso Luna,iti-07775,A211(LITI3)
+Habilidades del pensamiento,Myriam Ornelas Llerena,iti-07773,A208(A8)
+Introducción a la programación orientada a objetos,Karla Esmeralda Vázquez Ortiz,iti-07774,A213(LITI4)
+Introducción a la programación orientada a objetos,Karla Esmeralda Vázquez Ortiz,iti-07774,A213(LITI4)
+Switcheo y wireless,Hiram Herrera Rivas,iti-07776,A204(Lab. de redes)
+
+MIERCOLES:
+Álgebra lineal,Eduardo Patricio González Nuño,iti-07777,A208(A8)
+Introducción a las bases de datos,Jorge Omar Jasso Luna,iti-07775,A211(LITI3)
+Habilidades del pensamiento,Myriam Ornelas Llerena,iti-07773,A208(A8)
+Introducción a la programación orientada a objetos,Karla Esmeralda Vázquez Ortiz,iti-07774,A213(LITI4)
+Introducción a la programación orientada a objetos,Karla Esmeralda Vázquez Ortiz,iti-07774,A213(LITI4)
+Switcheo y wireless,Hiram Herrera Rivas,iti-07776,A204(Lab. de redes)
+
+JUEVES:
+Álgebra lineal,Eduardo Patricio González Nuño,iti-07777,A208(A8)
+Introducción a las bases de datos,Jorge Omar Jasso Luna,iti-07775,A211(LITI3)
+Habilidades del pensamiento,Myriam Ornelas Llerena,iti-07773,A208(A8)
+Switcheo y wireless,Hiram Herrera Rivas,iti-07776,A204(Lab. de redes)
+Switcheo y wireless,Hiram Herrera Rivas,iti-07776,A204(Lab. de redes)
+Introducción a la programación orientada a objetos,Karla Esmeralda Vázquez Ortiz,iti-07774,A213(LITI4)
+
+VIERNES:
+Álgebra lineal,Eduardo Patricio González Nuño,iti-07777,A208(A8)
+Álgebra lineal,Eduardo Patricio González Nuño,iti-07777,A208(A8)
+Introducción a las bases de datos,Jorge Omar Jasso Luna,iti-07775,A211(LITI3)
+Switcheo y wireless,Hiram Herrera Rivas,iti-07776,A204(Lab. de redes)
+Switcheo y wireless,Hiram Herrera Rivas,iti-07776,A204(Lab. de redes)
+
